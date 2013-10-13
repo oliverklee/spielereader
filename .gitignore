@@ -2,6 +2,7 @@
 *.acr
 *.alg
 *.aux
+*.backup
 *.bbl
 *.blg
 *.dvi
@@ -30,3 +31,4 @@
 *.vrb
 *.xdy
 *.tdo
+Mafiaalle.pdf

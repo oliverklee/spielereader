@@ -1,0 +1,78 @@
+\documentclass[a4paper,twoside,11pt,titlepage,openany]{scrbook} 
+\usepackage[utf8]{inputenc}
+\usepackage[plainpages=false,pdfpagelabels]{hyperref}
+\usepackage{a4wide,ae,avant,graphics,makeidx,marvosym,url}
+
+\usepackage[american,ngerman]{babel}
+\usepackage[babel]{csquotes}
+
+\newcommand{\fett}[1]{\textsf{\textbf{#1}}}
+
+% weniger Abstand unter Paragraph
+\renewcommand{\paragraph}[1]{
+
+  \vspace*{.2em}
+  \noindent
+  \fett{#1}
+}
+
+\renewcommand{\descriptionlabel}[1]{\hspace*{1em} \hspace\labelsep \fett{#1}}
+
+\author{\raggedright Zusammenstellung: Oliver Klee \and \url{http://www.spielereader.org/}}
+\title{Spiele und Methoden für Workshops, Seminare, Erstsemestereinführungen oder einfach so zum Spaß}
+\date{Version vom 02.\,10.\,2006}
+
+\pagestyle{headings}
+\raggedbottom
+\sloppy
+\bibliographystyle{gerplain}
+\input{hyphenation}
+
+\makeindex
+
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0em}
+\setlength{\parsep}{0em}
+
+\begin{document}
+% einfach mal die komplette Literatur im Verzeichnis aufführen
+\nocite*{}
+
+\frontmatter
+\maketitle
+\tableofcontents
+
+\mainmatter
+
+\input{einleitung}
+
+\input{kennenlernen}
+\input{gruppeneinteilung}
+\input{auflockerung}
+\input{abends}
+\input{wissen}
+\input{gruppendynamik}
+\input{auswertung}
+
+\backmatter
+\bibliography{spielereader}
+
+\appendix
+\input{anhang}
+
+\printindex
+
+\end{document}
+
+\section{}
+\index{}
+\paragraph{Alias:}
+\paragraph{Art:}
+\paragraph{Ziel:}
+\paragraph{Dauer:}
+\paragraph{Wir brauchen dazu:}
+\paragraph{So geht es:}
+\paragraph{Besondere Hinweise:}
+\paragraph{Wann einsetzen:}
+\paragraph{Varianten:}
+
