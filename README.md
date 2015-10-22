@@ -8,8 +8,8 @@ Seminare, Erstsemestereinführungen oder einfach so zum Spaß.
 
 Ich heiße Oliver Klee und gebe
 [Workshops](https://www.oliverklee.de/workshops/workshops.html),
-darunter Train-the-Trainer-Workshops und Seminars zu Moderation, Kommunikation,
-Konfliktmanagement und Zeitmanagement. Ihr könnt mich gerne für Workshop in
+darunter Train-the-Trainer-Workshops und Seminare zu Moderation, Kommunikation,
+Konfliktmanagement und Zeitmanagement. Ihr könnt mich gerne für Workshops in
 eurer Organisation oder Firma engagieren.
 
 
