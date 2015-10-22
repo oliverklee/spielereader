@@ -13,6 +13,12 @@ Konfliktmanagement und Zeitmanagement. Ihr könnt mich gerne für Workshops in
 eurer Organisation oder Firma engagieren.
 
 
+## Andere Handouts
+
+Es gibt von mir auch ein
+[Handout zu Entspannungsmassage](https://github.com/oliverklee/massagereader).
+
+
 ## Lizenz
 
 Dieser Reader ist unter einer Creative-Commons-Lizenz lizensiert, und zwar
