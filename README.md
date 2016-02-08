@@ -1,5 +1,7 @@
 # Der Spielereader
 
+[![Flattr this git repo](https://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=45y2xw&url=https%3A%2F%2Fgithub.com%2Foliverklee%2Fspielereader)
+
 Dieser Spielereader enthält verschiedene Spiele und Methoden für Workshops,
 Seminare, Erstsemestereinführungen oder einfach so zum Spaß.
 
