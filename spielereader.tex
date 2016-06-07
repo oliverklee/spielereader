@@ -1,4 +1,4 @@
-\documentclass[a4paper,twoside,11pt,titlepage,openany]{scrbook} 
+\documentclass[a4paper,twoside,11pt,titlepage,openany]{scrbook}
 \usepackage[utf8]{inputenc}
 \usepackage[plainpages=false,pdfpagelabels]{hyperref}
 \usepackage{a4wide,ae,avant,graphics,makeidx,marvosym,url}
@@ -9,11 +9,13 @@
 \newcommand{\fett}[1]{\textsf{\textbf{#1}}}
 
 % weniger Abstand unter Paragraph
-\renewcommand{\paragraph}[1]{
-  \vspace*{.2em}
-  \noindent
-  \fett{#1}
+\makeatletter
+\renewcommand{\paragraph}{
+  \@startsection{paragraph}{4}
+  {\z@}{1ex}{-0.5em}
+  {\fett}
 }
+\makeatother
 
 \renewcommand{\descriptionlabel}[1]{\hspace*{1em} \hspace\labelsep \fett{#1}}
 
