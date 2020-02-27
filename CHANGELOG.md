@@ -3,6 +3,7 @@
 ## ??.??.????
 
 ### Hinzugefügt
+- 6x6-Version des Kennenlern-Bingos
 - Kontakt
 - Zeitungsninja
 - Tippspiel/Zweikampf
