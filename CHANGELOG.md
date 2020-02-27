@@ -3,6 +3,7 @@
 ## ??.??.????
 
 ### Hinzugefügt
+- Noten für den Gubutanz
 - 6x6-Version des Kennenlern-Bingos
 - Kontakt
 - Zeitungsninja
