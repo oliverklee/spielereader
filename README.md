@@ -1,10 +1,9 @@
 # Der Spielereader
 
-[![Flattr this git repo](https://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=45y2xw&url=https%3A%2F%2Fgithub.com%2Foliverklee%2Fspielereader)
-
 Dieser Spielereader enthält verschiedene Spiele und Methoden für Workshops,
 Seminare, Erstsemestereinführungen oder einfach so zum Spaß.
 
+[Zur Änderungshistorie](CHANGELOG.md)
 
 ## Über den Autor
 
@@ -14,12 +13,10 @@ darunter Train-the-Trainer-Workshops und Seminare zu Moderation, Kommunikation,
 Konfliktmanagement und Zeitmanagement. Ihr könnt mich gerne für Workshops in
 eurer Organisation oder Firma engagieren.
 
-
 ## Andere Handouts
 
 Es gibt von mir auch ein
 [Handout zu Entspannungsmassage](https://github.com/oliverklee/massagereader).
-
 
 ## Lizenz
 
