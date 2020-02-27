@@ -19,6 +19,11 @@ Es gibt von mir auch ein
 [Handout zu Entspannungsmassage](https://github.com/oliverklee/massagereader)
 sowie eine [Sammlung anderer Workshop-Handouts](https://github.com/oliverklee/workshop-handouts).
 
+## Spiele als Comics
+
+Der Grafiker Caspar Siebel hat einige
+[Workshop-Spiele als Comics](https://www.workshop-spiele.de/) aufbereitet.
+
 ## Lizenz
 
 Dieser Reader ist unter einer Creative-Commons-Lizenz lizensiert, und zwar
