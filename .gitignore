@@ -15,6 +15,7 @@
 *.ind
 *.ist
 *.kilepr
+*.kile
 *.lof
 *.log
 *.lot
