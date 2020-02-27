@@ -8,7 +8,7 @@ Seminare, Erstsemestereinführungen oder einfach so zum Spaß.
 ## Über den Autor
 
 Ich heiße Oliver Klee und gebe
-[Workshops](https://www.oliverklee.de/workshops/workshops.html),
+[Workshops](https://www.oliverklee.de/workshops/),
 darunter Train-the-Trainer-Workshops und Seminare zu Moderation, Kommunikation,
 Konfliktmanagement und Zeitmanagement. Ihr könnt mich gerne für Workshops in
 eurer Organisation oder Firma engagieren.
@@ -16,7 +16,8 @@ eurer Organisation oder Firma engagieren.
 ## Andere Handouts
 
 Es gibt von mir auch ein
-[Handout zu Entspannungsmassage](https://github.com/oliverklee/massagereader).
+[Handout zu Entspannungsmassage](https://github.com/oliverklee/massagereader)
+sowie eine [Sammlung anderer Workshop-Handouts](https://github.com/oliverklee/workshop-handouts).
 
 ## Lizenz
 
@@ -26,7 +27,7 @@ Das bedeutet, dass ihr den Reader unter diesen Bedingungen für euch kostenlos
 verbreiten, bearbeiten und nutzen könnt (auch kommerziell):
 
 **Namensnennung:** Ihr müsst den Namen des Autors (Oliver Klee) nennen. Wenn
-ihr außerdem auch noch die Quelle (also http://www.spielereader.org/) nennt,
+ihr außerdem auch noch die Quelle (also https://www.spielereader.org/) nennt,
 wäre das nett. Und wenn ihr mir zusätzlich eine Freude machen möchtet, sagt
 mir per E-Mail Bescheid.
 
@@ -39,4 +40,4 @@ Wenn ihr den Reader weiter verbreitet, müsst ihr dabei auch die
 Lizenzbedingungen nennen oder beifügen.
 
 Die ausführliche Version dieser Lizenz gibt es online unter
-<http://creativecommons.org/licenses/by-sa/3.0/de/>.
+https://creativecommons.org/licenses/by-sa/3.0/de/.
