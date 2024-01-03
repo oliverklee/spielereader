@@ -34,3 +34,10 @@
 *.xdy
 *.tdo
 mafia.pdf
+
+# IDE workspace files
+/.idea
+/nbproject
+
+# Ignore OS-specific files
+.DS_Store
